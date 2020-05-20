@@ -1,4 +1,4 @@
-# REST API сервер для игры Cards Against Humanity
+# REST API сервер для Cards Against Humanity
 
 ## Установка
 
